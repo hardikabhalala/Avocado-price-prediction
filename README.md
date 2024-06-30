@@ -1,5 +1,7 @@
 # Avocado-price-prediction
-In this project predicting the price of avocado by using various regression models
+In this project evaluate the mode for predicting  the price of avocado by using various regression models
+
+
 steps followed:-
   - Data preprocessing and data cleaning
   - Feature engineering to extract relevent feature
