@@ -1,5 +1,5 @@
 # Avocado-price-prediction
-In this project evaluate the mode for predicting  the price of avocado by using various regression models
+In this project evaluate the model for predicting  the price of avocado by using various regression models
 
 
 steps followed:-
